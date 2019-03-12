@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
+
+
+<url>
+  <loc>http://www.codesera.in/</loc>
+  <lastmod>2019-03-11T11:29:38+00:00</lastmod>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>http://www.codesera.in/index.html</loc>
+  <lastmod>2019-03-11T11:29:38+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://www.codesera.in/course.html</loc>
+  <lastmod>2019-03-07T13:59:46+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://www.codesera.in/gallery.html</loc>
+  <lastmod>2019-03-11T11:49:40+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://www.codesera.in/blog-archive.html</loc>
+  <lastmod>2019-03-08T08:45:38+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://www.codesera.in/contact.html</loc>
+  <lastmod>2019-03-07T13:39:36+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://www.codesera.in/NPTEL_Problem_Solving_through_C.html</loc>
+  <lastmod>2019-03-11T19:36:07+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://www.codesera.in/course-detail.html</loc>
+  <lastmod>2019-03-11T11:34:50+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://www.codesera.in/blog-single.html</loc>
+  <lastmod>2019-03-11T19:36:07+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://www.codesera.in/blog-2.html</loc>
+  <lastmod>2019-03-07T13:38:28+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://www.codesera.in/blog-3.html</loc>
+  <lastmod>2019-03-11T19:36:07+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://www.codesera.in/404.html</loc>
+  <lastmod>2019-03-07T13:38:46+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+
+
+</urlset>
