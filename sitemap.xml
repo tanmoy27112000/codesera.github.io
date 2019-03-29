@@ -1,87 +1,175 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset
-      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
-      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
-            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
-<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
-
-
-<url>
-  <loc>http://www.codesera.in/</loc>
-  <lastmod>2019-03-13T19:04:28+00:00</lastmod>
-  <priority>1.00</priority>
-</url>
-<url>
-  <loc>http://www.codesera.in/index.html</loc>
-  <lastmod>2019-03-13T19:04:28+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>http://www.codesera.in/course.html</loc>
-  <lastmod>2019-03-13T19:04:27+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>http://www.codesera.in/gallery.html</loc>
-  <lastmod>2019-03-13T19:04:28+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>http://www.codesera.in/blog-archive.html</loc>
-  <lastmod>2019-03-13T19:04:25+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>http://www.codesera.in/contact.html</loc>
-  <lastmod>2019-03-13T19:04:26+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>http://www.codesera.in/about_us.html</loc>
-  <lastmod>2019-03-13T19:04:23+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>http://www.codesera.in/NPTEL_Problem_Solving_through_C.html</loc>
-  <lastmod>2019-03-13T19:04:29+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>http://www.codesera.in/course-detail.html</loc>
-  <lastmod>2019-03-13T19:04:27+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>http://www.codesera.in/blog-single.html</loc>
-  <lastmod>2019-03-13T19:04:26+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>http://www.codesera.in/blog-2.html</loc>
-  <lastmod>2019-03-13T19:04:24+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>http://www.codesera.in/blog-3.html</loc>
-  <lastmod>2019-03-13T19:04:24+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>http://www.codesera.in/404.html</loc>
-  <lastmod>2019-03-13T19:04:23+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>http://www.codesera.in/terms_and_conditions.html</loc>
-  <lastmod>2019-03-13T19:04:30+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>http://www.codesera.in/blog-4.html</loc>
-  <lastmod>2019-03-13T19:04:25+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-
-
+<?xml-stylesheet type='text/xsl' href='sitemap.xsl'?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+        xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+        http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+  <url>
+    <loc>https://www.codesera.in/cdn-cgi/l/email-protection</loc>
+    <changefreq>Monthly</changefreq>
+    <priority>1</priority>
+    <lastmod>2019-03-29T21:00:28Z</lastmod>
+  </url>
+  <url>
+    <loc>https://www.codesera.in/cdn-cgi/l/</loc>
+    <changefreq>Monthly</changefreq>
+    <priority>1</priority>
+    <lastmod>2019-03-29T21:00:28Z</lastmod>
+  </url>
+  <url>
+    <loc>https://www.codesera.in/index.html</loc>
+    <changefreq>Monthly</changefreq>
+    <priority>1</priority>
+    <lastmod>2019-03-29T21:00:28Z</lastmod>
+  </url>
+  <url>
+    <loc>https://www.codesera.in/course.html</loc>
+    <changefreq>Monthly</changefreq>
+    <priority>1</priority>
+    <lastmod>2019-03-29T21:00:28Z</lastmod>
+  </url>
+  <url>
+    <loc>https://www.codesera.in/gallery.html</loc>
+    <changefreq>Monthly</changefreq>
+    <priority>1</priority>
+    <lastmod>2019-03-29T21:00:28Z</lastmod>
+  </url>
+  <url>
+    <loc>https://www.codesera.in/blog-archive.html</loc>
+    <changefreq>Monthly</changefreq>
+    <priority>1</priority>
+    <lastmod>2019-03-29T21:00:28Z</lastmod>
+  </url>
+  <url>
+    <loc>https://www.codesera.in/contact.html</loc>
+    <changefreq>Monthly</changefreq>
+    <priority>1</priority>
+    <lastmod>2019-03-29T21:00:28Z</lastmod>
+  </url>
+  <url>
+    <loc>https://www.codesera.in/about_us.html</loc>
+    <changefreq>Monthly</changefreq>
+    <priority>1</priority>
+    <lastmod>2019-03-29T21:00:28Z</lastmod>
+  </url>
+  <url>
+    <loc>https://www.codesera.in/404.html</loc>
+    <changefreq>Monthly</changefreq>
+    <priority>1</priority>
+    <lastmod>2019-03-29T21:00:28Z</lastmod>
+  </url>
+  <url>
+    <loc>https://www.codesera.in/course-detail.html</loc>
+    <changefreq>Monthly</changefreq>
+    <priority>1</priority>
+    <lastmod>2019-03-29T21:00:28Z</lastmod>
+  </url>
+  <url>
+    <loc>https://www.codesera.in/NPTEL_Problem_Solving_through_C.html</loc>
+    <changefreq>Monthly</changefreq>
+    <priority>1</priority>
+    <lastmod>2019-03-29T21:00:28Z</lastmod>
+  </url>
+  <url>
+    <loc>https://www.codesera.in/sitemap.xml</loc>
+    <changefreq>Monthly</changefreq>
+    <priority>1</priority>
+    <lastmod>2019-03-29T21:00:28Z</lastmod>
+  </url>
+  <url>
+    <loc>https://www.codesera.in/terms_and_conditions.html</loc>
+    <changefreq>Monthly</changefreq>
+    <priority>1</priority>
+    <lastmod>2019-03-29T21:00:28Z</lastmod>
+  </url>
+  <url>
+    <loc>https://www.codesera.in/blog-single.html</loc>
+    <changefreq>Monthly</changefreq>
+    <priority>1</priority>
+    <lastmod>2019-03-29T21:00:28Z</lastmod>
+  </url>
+  <url>
+    <loc>https://www.codesera.in/blog-2.html</loc>
+    <changefreq>Monthly</changefreq>
+    <priority>1</priority>
+    <lastmod>2019-03-29T21:00:28Z</lastmod>
+  </url>
+  <url>
+    <loc>https://www.codesera.in/blog-3.html</loc>
+    <changefreq>Monthly</changefreq>
+    <priority>1</priority>
+    <lastmod>2019-03-29T21:00:28Z</lastmod>
+  </url>
+  <url>
+    <loc>https://www.codesera.in/blog-4.html</loc>
+    <changefreq>Monthly</changefreq>
+    <priority>1</priority>
+    <lastmod>2019-03-29T21:00:28Z</lastmod>
+  </url>
+  <url>
+    <loc>https://www.codesera.in/assets/img/gallery/big/1.jpg</loc>
+    <changefreq>Monthly</changefreq>
+    <priority>1</priority>
+    <lastmod>2019-03-29T21:00:28Z</lastmod>
+  </url>
+  <url>
+    <loc>https://www.codesera.in/assets/img/gallery/big/</loc>
+    <changefreq>Monthly</changefreq>
+    <priority>1</priority>
+    <lastmod>2019-03-29T21:00:28Z</lastmod>
+  </url>
+  <url>
+    <loc>https://www.codesera.in/assets/img/gallery/big/2.jpg</loc>
+    <changefreq>Monthly</changefreq>
+    <priority>1</priority>
+    <lastmod>2019-03-29T21:00:28Z</lastmod>
+  </url>
+  <url>
+    <loc>https://www.codesera.in/assets/img/gallery/big/3.jpg</loc>
+    <changefreq>Monthly</changefreq>
+    <priority>1</priority>
+    <lastmod>2019-03-29T21:00:28Z</lastmod>
+  </url>
+  <url>
+    <loc>https://www.codesera.in/assets/img/gallery/big/4.jpg</loc>
+    <changefreq>Monthly</changefreq>
+    <priority>1</priority>
+    <lastmod>2019-03-29T21:00:28Z</lastmod>
+  </url>
+  <url>
+    <loc>https://www.codesera.in/assets/img/gallery/big/5.jpg</loc>
+    <changefreq>Monthly</changefreq>
+    <priority>1</priority>
+    <lastmod>2019-03-29T21:00:28Z</lastmod>
+  </url>
+  <url>
+    <loc>https://www.codesera.in/assets/img/gallery/big/6.jpg</loc>
+    <changefreq>Monthly</changefreq>
+    <priority>1</priority>
+    <lastmod>2019-03-29T21:00:28Z</lastmod>
+  </url>
+  <url>
+    <loc>https://www.codesera.in/assets/img/gallery/big/7.jpg</loc>
+    <changefreq>Monthly</changefreq>
+    <priority>1</priority>
+    <lastmod>2019-03-29T21:00:28Z</lastmod>
+  </url>
+  <url>
+    <loc>https://www.codesera.in/assets/img/gallery/big/8.jpg</loc>
+    <changefreq>Monthly</changefreq>
+    <priority>1</priority>
+    <lastmod>2019-03-29T21:00:28Z</lastmod>
+  </url>
+  <url>
+    <loc>https://www.codesera.in/assets/img/gallery/big/9.jpg</loc>
+    <changefreq>Monthly</changefreq>
+    <priority>1</priority>
+    <lastmod>2019-03-29T21:00:28Z</lastmod>
+  </url>
+  <url>
+    <loc>https://www.codesera.in/Graph_Structure.html</loc>
+    <changefreq>Monthly</changefreq>
+    <priority>1</priority>
+    <lastmod>2019-03-29T21:00:28Z</lastmod>
+  </url>
 </urlset>
